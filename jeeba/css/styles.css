@@ -1,0 +1,32 @@
+.date {
+	float: left;
+	position: relative;
+	padding: 20px 20px; 
+    background: #3498DB;
+    border-radius: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    margin-left: 25px;
+}
+
+.dtxt {
+	padding: 0px;
+	margin: 0px;
+}
+
+.copyright {
+	background-color: #708090; 
+	color: white; 
+	padding-top: 50px; 
+	padding-bottom: 50px; 
+	text-transform: uppercase;
+}
+
+.info {
+	background-color: #dcdcdc;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+	text-transform: uppercase;
+}
